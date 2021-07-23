@@ -1,0 +1,1 @@
+# Benchmarking-and-compression-on-EuroSat
