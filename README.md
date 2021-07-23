@@ -1,1 +1,1 @@
-# Benchmarking-and-compression-on-EuroSat
+# Benchmarking-and-compression-on-Satellite-Images-using-variants-of-ResNets
