@@ -1,1 +1,1 @@
-# Benchmarking-and-compression-on-Satellite-Images-using-variants-of-ResNets
+# Benchmarking and compression of DNN trained on Sentinel-2 images using variants of ResNets
